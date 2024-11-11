@@ -1,0 +1,11 @@
+psycopg2-binary==2.9.9
+astronomer-cosmos==1.7.0
+apache-airflow-providers-trino==5.7.2
+apache-airflow-providers-postgres==5.11.3
+apache-airflow-providers-apache-spark==4.9.0
+dbt-postgres==1.8.2
+dbt-trino==1.8.2
+openlineage-integration-common==1.23.0
+minio==7.1.16
+gspread==5.11.1
+python-telegram-bot==20.5
